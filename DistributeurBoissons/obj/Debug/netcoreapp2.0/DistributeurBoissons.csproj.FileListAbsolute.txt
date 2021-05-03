@@ -1,0 +1,11 @@
+C:\Users\MSI\Source\Repos\DistributeurBoissons\DistributeurBoissons\bin\Debug\netcoreapp2.0\DistributeurBoissons.deps.json
+C:\Users\MSI\Source\Repos\DistributeurBoissons\DistributeurBoissons\bin\Debug\netcoreapp2.0\DistributeurBoissons.runtimeconfig.json
+C:\Users\MSI\Source\Repos\DistributeurBoissons\DistributeurBoissons\bin\Debug\netcoreapp2.0\DistributeurBoissons.runtimeconfig.dev.json
+C:\Users\MSI\Source\Repos\DistributeurBoissons\DistributeurBoissons\bin\Debug\netcoreapp2.0\DistributeurBoissons.dll
+C:\Users\MSI\Source\Repos\DistributeurBoissons\DistributeurBoissons\bin\Debug\netcoreapp2.0\DistributeurBoissons.pdb
+C:\Users\MSI\Source\Repos\DistributeurBoissons\DistributeurBoissons\obj\Debug\netcoreapp2.0\DistributeurBoissons.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Source\Repos\DistributeurBoissons\DistributeurBoissons\obj\Debug\netcoreapp2.0\DistributeurBoissons.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Source\Repos\DistributeurBoissons\DistributeurBoissons\obj\Debug\netcoreapp2.0\DistributeurBoissons.AssemblyInfoInputs.cache
+C:\Users\MSI\Source\Repos\DistributeurBoissons\DistributeurBoissons\obj\Debug\netcoreapp2.0\DistributeurBoissons.AssemblyInfo.cs
+C:\Users\MSI\Source\Repos\DistributeurBoissons\DistributeurBoissons\obj\Debug\netcoreapp2.0\DistributeurBoissons.dll
+C:\Users\MSI\Source\Repos\DistributeurBoissons\DistributeurBoissons\obj\Debug\netcoreapp2.0\DistributeurBoissons.pdb
